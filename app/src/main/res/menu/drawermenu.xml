@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+
+        <item android:id="@+id/lista"
+            android:title="@string/lista_de_bancadas"
+            android:icon="@drawable/ic_action_list"/>
+        <item android:id="@+id/valores"
+            android:title="@string/valores_recentes"
+            android:icon="@drawable/ic_action_update"
+            />
+        <item android:id="@+id/historico"
+            android:title="@string/historico"
+            android:icon="@drawable/ic_action_chart"/>
+
+    </group>
+    <item android:title = "@string/config_ESP32">
+        <menu>
+            <item android:id="@+id/configesp32"
+                android:title="@string/configurar_esp_32"
+                android:icon="@drawable/ic_action_internet" />
+
+
+
+
+        </menu>
+
+
+
+
+    </item>
+    <item android:title = "@string/options">
+        <menu>
+            <item android:id="@+id/logout"
+                android:title="@string/logout"
+                android:icon="@drawable/ic_action_name" />
+            <item android:id="@+id/first"
+                android:title="@string/quit"
+                android:icon="@drawable/ic_action_exit" />
+
+
+
+
+        </menu>
+
+
+
+
+    </item>
+
+
+
+
+
+
+
+
+
+
+</menu>
+
+
+
+
+
