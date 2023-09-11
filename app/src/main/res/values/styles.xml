@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="lollipop">true</item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
+
+    </style>
+    <style name="MyDialogTheme" parent="Theme.AppCompat.DayNight">
+        <item name="android:timePickerStyle" tools:targetApi="lollipop">@style/MyTimePicker</item>
+    </style>
+
+    <style name="MyTimePicker" parent="@android:style/Widget.Material.TimePicker" tools:targetApi="lollipop">
+        <item name="android:timePickerMode">spinner</item>
+    </style>
+
+    <style name="CustomTimePickerDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:dialogTheme">@style/MyDialogTheme</item>
+        <item name="android:timePickerStyle" tools:targetApi="lollipop">@style/MyTimePicker</item>
+    </style>
+
+
+
+</resources>

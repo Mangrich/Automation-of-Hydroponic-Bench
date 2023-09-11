@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-xxhdpi-v4\\ic_unionpay_template_32.png",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-8.1.0.aar\\7a7ee3551d82c26ba5c9aa51c7cb1059\\res\\drawable-zh-xxhdpi-v4\\ic_unionpay_template_32.png"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-zh-xxhdpi-v4\\ic_unionpay.png",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\stripe-android-8.1.0.aar\\7a7ee3551d82c26ba5c9aa51c7cb1059\\res\\drawable-zh-xxhdpi-v4\\ic_unionpay.png"
+    }
+]

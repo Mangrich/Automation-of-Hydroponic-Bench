@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WebSocketActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView3"
+        android:layout_alignBaseline="@+id/textView3"
+        android:hint="@string/senha_da_rede_local"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:layout_toEndOf="@+id/textView3"
+        android:importantForAutofill="no"
+        tools:targetApi="o" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_alignBaseline="@+id/textView2"
+        android:hint="@string/nome_da_rede"
+        android:inputType="textNoSuggestions"
+        android:textSize="20sp"
+        android:layout_toEndOf="@+id/textView2"
+        android:importantForAutofill="no"
+        tools:targetApi="o" />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/senha"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="30sp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="20dp" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:hint="@string/number_2"
+        android:text="@string/rede_esp32"
+        android:textSize="30sp"
+        android:layout_marginStart="20dp" />
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginLeft="20dp"
+        android:hint="@string/number_2"
+        android:maxLength="35"
+        android:text="Mensagem"
+        android:layout_marginStart="20dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="@string/ssid"
+        android:layout_above="@+id/textView3"
+        android:layout_marginBottom="115dp"
+        android:textSize="30sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp" />
+
+
+    <Button
+        android:id="@+id/enable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="115dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/conectar"
+        android:layout_marginStart="20dp" />
+
+    <Button
+        android:id="@+id/disable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/desconectar"
+        android:layout_marginStart="20dp" />
+
+    <Button
+        android:id="@+id/advance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/enable"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:text="@string/avan_ar"
+        android:layout_marginEnd="20dp"
+        android:layout_alignParentEnd="true" />
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/disable"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignLeft="@+id/advance"
+        android:text="@string/voltar"
+        android:layout_alignStart="@+id/advance"
+        android:layout_marginEnd="20dp" />
+
+
+
+
+
+
+
+</RelativeLayout>
