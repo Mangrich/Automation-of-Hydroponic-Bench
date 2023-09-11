@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-16.0.1.aar\\fe86c34710f6c409588412a9348b9ec1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\1f3f472366e97310c7f3e9495c465263\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-16.0.1.aar\\fe86c34710f6c409588412a9348b9ec1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\eduar\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-16.0.1.aar\\fe86c34710f6c409588412a9348b9ec1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

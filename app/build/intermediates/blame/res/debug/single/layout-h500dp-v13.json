@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\example_item.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\example_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_socket.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_socket.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_scan_code.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_scan_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_historico.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_login.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\navigation_header.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_finish.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_config.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_list.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-v13\\activity_bancada.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-h500dp\\activity_bancada.xml"
+    }
+]
