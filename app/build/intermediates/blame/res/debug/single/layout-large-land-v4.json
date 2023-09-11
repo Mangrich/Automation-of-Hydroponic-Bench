@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_socket.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_socket.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_finish.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_list.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_bancada.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_bancada.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\example_item.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\example_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_historico.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_historico.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_config.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_login.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\activity_scan_code.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\activity_scan_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-v4\\navigation_header.xml",
+        "source": "C:\\Users\\eduar\\AndroidStudioProjects\\fertileasy\\app\\src\\main\\res\\layout-large-land\\navigation_header.xml"
+    }
+]
